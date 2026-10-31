@@ -9,7 +9,7 @@ Python, Pandas, Scikit-learn, (Random Forest), FastAPI
 - R2 score: 0.71
 
 ## Run
-pip install -r reqirements.txt
+pip install -r requirements.txt
 uvicorn main:app --reload
 
 ## API
@@ -21,4 +21,4 @@ response:
 {"price_lakh": 47.93}
 
 ## Live
-(Render)
+(https://house-price-predict-psqs.onrender.com/docs)
