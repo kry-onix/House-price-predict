@@ -4,7 +4,7 @@
 Python, Pandas, Scikit-learn, (Random Forest), FastAPI
 
 ## Model
-- Data: Bengluru House Data(13,000+ rows)
+- Data: Bengaluru House Data(13,000+ rows)
 - Cleaning: remove outliers and rare locations
 - R2 score: 0.71
 
